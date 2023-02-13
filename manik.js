@@ -38,6 +38,6 @@ s = (s < 10) ? "0" + s:s
 Hours.innerHTML = h;
 minutes.innerHTML = m;
 seconds.innerHTML = s;
-AudioParamMap.innerHTML = am;
+ampa.innerHTML = am;
 });
 
